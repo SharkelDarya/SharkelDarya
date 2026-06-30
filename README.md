@@ -1,6 +1,4 @@
 ### Hi there 👋
-I'm a Python and C# software developer. My professional interest is focused on artificial intelligence and it's aspects like machine learning, deep learning.
-## Favorite Tech
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="60" height="60"/>&nbsp;
